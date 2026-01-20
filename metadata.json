@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Finder",
+  "description": "An advanced application that uses AI to find and list downloadable videos from any webpage URL. Provides a list of found videos with options to download.",
+  "requestFramePermissions": []
+}
